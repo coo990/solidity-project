@@ -1,0 +1,22 @@
+{
+  "name": "solidity-project",
+  "version": "1.0.0",
+  "description": "My first Solidity smart-contract to learn about blockchains.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coo990/solidity-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coo990/solidity-project/issues"
+  },
+  "homepage": "https://github.com/coo990/solidity-project#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.4"
+  }
+}
